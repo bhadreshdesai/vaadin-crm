@@ -22,3 +22,12 @@ To run Integration Tests, execute `mvn verify -Pintegration-tests`.
 - [Vaadin Flow](https://vaadin.com/flow) documentation
 - [Using Vaadin and Spring](https://vaadin.com/docs/v14/flow/spring/tutorial-spring-basic.html) article
 
+## IntelliJ configuration for live reload
+Using Ctrl+Shift+A (or ⌘+Shift+A on Mac) type Registry once the registry windows is open, locate and enable compiler.automake.allow.when.app.running
+
+For some reason this option is not available in IntelliJ 2019.3
+
+File->Settings->Compiler
+
+Enable "Build project automatically"
+
