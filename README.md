@@ -31,3 +31,11 @@ File->Settings->Compiler
 
 Enable "Build project automatically"
 
+## H2 Console
+H2 database console is available at http://localhost:8080/h2-console
+
+Use jdbc:h2:mem:testdb as JDBC URL and click Connect
+
+You should see COMPANY and CONTACT table populated with data
+
+
