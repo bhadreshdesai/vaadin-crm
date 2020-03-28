@@ -38,4 +38,11 @@ Use jdbc:h2:mem:testdb as JDBC URL and click Connect
 
 You should see COMPANY and CONTACT table populated with data
 
+## PWA icons
+See [PWA Application Icons](https://vaadin.com/docs/v14/flow/pwa/tutorial-pwa-icons.html) page.
+
+If you see a default Vaadin icon for PWA install use Shift+F5 in Chrome to ignore any previously cached icons.
+
+This should force the browser to use the newly added icon.png file under src/main/webapp/icons
+
 
