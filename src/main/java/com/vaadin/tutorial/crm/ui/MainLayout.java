@@ -11,8 +11,8 @@ import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.router.HighlightConditions;
 import com.vaadin.flow.router.RouterLink;
 import com.vaadin.flow.server.PWA;
-import com.vaadin.tutorial.crm.ui.view.dashboard.DashboardView;
-import com.vaadin.tutorial.crm.ui.view.list.ListView;
+import com.vaadin.tutorial.crm.ui.views.dashboard.DashboardView;
+import com.vaadin.tutorial.crm.ui.views.list.ListView;
 
 @PWA(
         name = "Vaadin CRM",

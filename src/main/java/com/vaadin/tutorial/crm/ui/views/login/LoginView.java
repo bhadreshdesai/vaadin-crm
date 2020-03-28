@@ -1,4 +1,4 @@
-package com.vaadin.tutorial.crm.ui.view.login;
+package com.vaadin.tutorial.crm.ui.views.login;
 
 import com.vaadin.flow.component.html.H1;
 import com.vaadin.flow.component.login.LoginForm;

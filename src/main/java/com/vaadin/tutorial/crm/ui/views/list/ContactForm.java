@@ -1,4 +1,4 @@
-package com.vaadin.tutorial.crm.ui.view.list;
+package com.vaadin.tutorial.crm.ui.views.list;
 
 import com.vaadin.flow.component.ComponentEvent;
 import com.vaadin.flow.component.ComponentEventListener;
